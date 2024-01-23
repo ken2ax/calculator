@@ -1,0 +1,30 @@
+ul{
+  list-style:none;
+}
+
+.calculator{
+  width:100%;
+}
+
+#display{
+  font-size:30px;
+  width:41%;
+  height:100%;
+  text-align:right;
+  color:#fff;
+  background-color:#000;
+}
+
+.calculator_button{
+  width:50%;
+}
+
+button{
+  font-size:30px;
+  width:20%;
+  height:100%;
+}
+
+button:hover{
+  background-color:#bbb;
+}
